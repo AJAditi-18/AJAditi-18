@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Aditi<br>I’m really passionate about Cybersecurity<br>Also interested in Web Development<br>Currently learning German language
 
 
