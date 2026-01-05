@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aditi<br>I’m passionate about Cybersecurity (major interest)<br>Also interested in Web Development<br>Currently learning German language and an avid reader
+Hi, I’m Aditi<br>I’m really passionate about Cybersecurity<br>Also interested in Web Development<br>Currently learning German language
 
 
 # 💻 Tech Stack:
